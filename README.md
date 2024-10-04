@@ -13,11 +13,15 @@ enabling complete CRUD (Create, Read, Update, Delete) functionality without reli
 **Responsive UI:** A clean and responsive design for an optimal user experience.  
 
 # Technologies Used
-*React:* The core JavaScript library for building the UI.
-*React Router DOM:* For routing between different pages (home, product details, add, and edit).
-*Axios:* To fetch product data initially from the Fake Store API.
-*Context API:* For global state management of product data.
-*Local Storage:* To store product data and persist across sessions.
+*React:* The core JavaScript library for building the UI.  
+
+*React Router DOM:* For routing between different pages (home, product details, add, and edit).  
+
+*Axios:* To fetch product data initially from the Fake Store API.  
+
+*Context API:* For global state management of product data.  
+
+*Local Storage:* To store product data and persist across sessions.  
 *TailwindCSS:* For styling the application.  
 
 # How It Works
