@@ -21,7 +21,7 @@ enabling complete CRUD (Create, Read, Update, Delete) functionality without reli
 *TailwindCSS:* For styling the application.  
 
 # How It Works
--- Initial API Fetch: Initially, the product data was fetched from the Fake Store API.
--- Local Storage Transition: The data was moved to local storage to allow the addition, deletion, and modification of products.
--- Add/Edit/Delete Products: Users can add new products, edit existing ones, or delete products, with changes reflected immediately in the UI and stored in local storage.
--- Filter by Categories: Products are organized into categories, and users can filter the products displayed by category.
+1. Initial API Fetch: Initially, the product data was fetched from the Fake Store API.
+2. Local Storage Transition: The data was moved to local storage to allow the addition, deletion, and modification of products.
+3. Add/Edit/Delete Products: Users can add new products, edit existing ones, or delete products, with changes reflected immediately in the UI and stored in local storage.
+4. Filter by Categories: Products are organized into categories, and users can filter the products displayed by category.
