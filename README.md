@@ -1,5 +1,5 @@
 # ClickCart
-## Demo[https://clickcart-pi.vercel.app/]
+Demo[https://clickcart-pi.vercel.app/]
 ClickCart is a dynamic product management application built with React, allowing users to view, add, edit, and delete products. 
 Initially, the app fetched data from the Fake Store API, but it was enhanced to store data in local storage, 
 enabling complete CRUD (Create, Read, Update, Delete) functionality without reliance on external APIs.  
